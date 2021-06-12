@@ -1,0 +1,23 @@
+body {font-family: Handwritten;
+background-image: url(https://cdn.hipwallpaper.com/m/75/6/IN0Kvz.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+margin: 50px 50px 50px 50px;
+text-align: left;}
+table {width:50%;}
+
+th
+{background-color: DarkSlateBlue}
+
+td
+{background-color:SlateBlue}
+
+div{border : 2px solid ghostwhite;
+padding : 20px 20px 20px 20px;}
+
+#border {background-color:DarkSlateGray}
+.senang {background-color:DarkRed}
+.sedih {background-color:DarkOrange}
+.biasasaja {background-color:DarkSalmon}
+.bold {background-color: bolder;}
